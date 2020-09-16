@@ -13,3 +13,5 @@ change 5master -> done on master branch
 
 change 5 -> fix bug 2 in bug branch
 
+change 6 -> change on rebase on master branch by teammate
+
