@@ -18,4 +18,9 @@ Remote repo change
 change 9 - > change in remote repo in github
 
 
+
 -> editing same file for rebase with conflict on remote repo
+
+
+confilt + rebase + remote & local
+
